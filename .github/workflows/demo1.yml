@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - 'main'    # main
+      - main    # main
       - 'dev-*'    # dev-new ose dev-this-is-new
       - 'feat/**'    # feat/new ose feat/new/button
       # me dy asterisk te lejon ma shum se nje slash
